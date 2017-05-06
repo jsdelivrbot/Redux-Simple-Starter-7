@@ -13,3 +13,8 @@ ReactDOM.render(
     <App />
   </Provider>
   , document.querySelector('.container'));
+
+
+// Redux helps you manage the state of your app
+
+// Reducers - manage state of specific components
