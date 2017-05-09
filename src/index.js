@@ -18,3 +18,5 @@ ReactDOM.render(
 // Redux helps you manage the state of your app
 
 // Reducers - manage state of specific components
+
+// Container - react component with access to state that is provided by redux
